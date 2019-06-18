@@ -19,3 +19,5 @@ end
 def encode(string)
   # TODO finish
 end
+
+#test
